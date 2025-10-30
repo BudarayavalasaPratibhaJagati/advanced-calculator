@@ -9,3 +9,5 @@ Tests:
 pytest --cov=app --cov-fail-under=90
 
 ![tests](https://github.com/BudarayavalasaPratibhaJagati/advanced-calculator/actions/workflows/python-app.yml/badge.svg)
+
+![tests](https://github.com/BudarayavalasaPratibhaJagati/advanced-calculator/actions/workflows/python-app.yml/badge.svg)
