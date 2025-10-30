@@ -13,3 +13,12 @@ pytest --cov=app --cov-fail-under=90
 ![tests](https://github.com/BudarayavalasaPratibhaJagati/advanced-calculator/actions/workflows/python-app.yml/badge.svg)
 
 ![tests](https://github.com/BudarayavalasaPratibhaJagati/advanced-calculator/actions/workflows/python-app.yml/badge.svg)
+
+## Quick Start
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+Copy-Item .env.example .env
+python -m app.calculator_repl
+
